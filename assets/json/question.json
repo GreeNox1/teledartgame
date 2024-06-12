@@ -1,0 +1,28 @@
+[
+  {
+    "countryFlagImage": "https://flagcdn.com/w2560/id.png",
+    "question": "stateFlag",
+    "answers": [
+      {
+        "answer": "Indonesia",
+        "isSelected": false,
+        "isCorrect": true
+      },
+      {
+        "answer": "Pennsylvania",
+        "isSelected": false,
+        "isCorrect": false
+      },
+      {
+        "answer": "Northern Ireland",
+        "isSelected": false,
+        "isCorrect": false
+      },
+      {
+        "answer": "Niger",
+        "isSelected": false,
+        "isCorrect": false
+      }
+    ]
+  }
+]
