@@ -1,1 +1,1 @@
-worker: ./dart-sdk/bin/dart ./bin/main.dart
+worker: dart ./bin/main.dart
